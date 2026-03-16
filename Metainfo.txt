@@ -1,0 +1,12 @@
+Name of Quantlet: Transparent-Movie
+Published in: Transparent-Movie-Instruction
+Description: Create a transparent 3D animated GIF from matplotlib frames
+Submitted: 16 March 2026
+Keywords: 
+- Animation
+- GIF
+- Matplotlib
+- Transparent
+- 3D Plot
+- Transparent Movie
+Author:  David Siang-Li Jheng
